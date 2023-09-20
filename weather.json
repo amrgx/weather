@@ -1,0 +1,32 @@
+{
+  "coord": { "lon": 31.2109, "lat": 30.0081 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 303.56,
+    "feels_like": 302.86,
+    "temp_min": 303.37,
+    "temp_max": 303.56,
+    "pressure": 1008,
+    "humidity": 36,
+    "sea_level": 1008,
+    "grnd_level": 1005
+  },
+  "visibility": 10000,
+  "wind": { "speed": 9.42, "deg": 346, "gust": 9.58 },
+  "clouds": { "all": 0 },
+  "dt": 1692206948,
+  "sys": {
+    "type": 1,
+    "id": 2514,
+    "country": "EG",
+    "sunrise": 1692156174,
+    "sunset": 1692203787
+  },
+  "timezone": 10800,
+  "id": 360995,
+  "name": "Giza",
+  "cod": 200
+}
